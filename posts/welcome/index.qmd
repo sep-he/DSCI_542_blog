@@ -1,14 +1,111 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-01-14"
-categories: [news]
+title: "My Journey in Data Science"
+author: "Sepehr Heydarian"
+date: "2025-01-18"
+categories: [Personal Journey]
 ---
 
-This is the first post in a Quarto blog. Welcome!
 
-![](thumbnail.jpg)
+![Source: https://www.linkedin.com/pulse/thinking-jobcareer-change-what-you-need-know-your-career-schultz/](career_change.jpg){#fig-career_change fig-cap="Source: [Linkedin Post](https://www.linkedin.com/pulse/thinking-jobcareer-change-what-you-need-know-your-career-schultz/)"}
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
 
-Sep was here
+## Why would someone decide to leave a stable job and start learning data science?
+
+This is a question I wrestled with for months, and to be honest, I am still not sure that I have the “right” answer. 
+Today, buzzwords like data, AI, and machine learning dominate conversations everywhere, and it seems like everyone wants to learn data skills and “break into tech”. 
+My name is Sepehr, and I am a former quality analyst who decided to go back to school to pursue a master’s degree in data science. 
+
+In this blog, I will share why I made this decision, the challenges I have faced, and the lessons I have learned. 
+This article may help your decision to change career paths or reaffirm that you are right where you need to be. 
+If you decide to follow my path, I will share some tips that might just be helpful.
+
+## My Starting Point
+
+One important note is that I do not come from a computer science or statistical background. 
+I graduated with a Bachelor of Science a few years ago and entered the workforce. 
+I started as a laboratory analyst and, after a series of promotions, achieved the position I had aimed for since joining the company: quality analyst. 
+This was my biggest professional achievement, and I was delighted. 
+
+As a quality analyst, much of my work involved writing reports on operational performance and submitting them to executive managers at the end of each month. 
+I also followed up with various teams to ensure that issues were resolved and corrective actions were implemented. 
+The role was demanding — there was no room for error, and deadlines were strict — but I enjoyed the challenge because I could see the positive impact of my work on the company’s operations. 
+Additionally, I enjoyed working on a new problem every day rather than doing the same task in a routine.
+
+## My Decision
+
+Over time, however, I realized that while my work influenced decision-making at the operational level, 
+the company’s most significant decisions—the ones that shaped its strategy and allocated resources—were driven by the insights of data scientists. 
+It was their ability to harness data and drive strategic change that inspired me.  
+
+This realization sparked my desire for change. 
+I wanted to contribute to decision-making on a larger scale and make a broader impact. 
+I was inspired by this skillset, where one can confidently perform a series of operations on collected data to make decision-making more robust and efficient.
+
+## What is Data Science?
+
+Initially, I thought that data science was another term for computer science. 
+I imagined that data scientists spent their days writing long code scripts. 
+I quickly learned that it was much more than that.
+
+Data science is the study of processing and utilizing data to make data-driven decisions. 
+This skill is one of the most useful tools organizations use to improve operations and achieve their goals. 
+Data scientists use tools like Python, R, or other programming languages to clean and manage data. 
+This may include removing redundant points in the data, filling in missing values, or performing mathematical operations on data points to make them more interpretable.
+
+They also perform exploratory data analysis (EDA), meaning they create graphs, charts, 
+or statistical summaries to understand the relationships and patterns between the points in the data frame. 
+Ultimately, they leverage this to build machine learning models, which are systems that learn from data to make predictions or identify trends, providing actionable insights. 
+
+
+![Data Science Workflow. Source: https://dataprofessor.beehiiv.com/p/the-data-science-process](ds-process.jpg){#fig-ds_workflow fig-cap="Source: [dataprofessor Post](https://dataprofessor.beehiiv.com/p/the-data-science-process)"}
+
+
+## My Experience
+
+Once I decided to pursue this path and leave my job, I was excited but unsure if it was the right move. 
+I expected the biggest challenge to be mastering the technical skills I needed to succeed in data science, 
+such as coding in Python, R, machine learning, and statistical analysis.  
+
+In reality, this journey was even more challenging than I had anticipated. 
+There were numerous technical skills to learn, from using the [Pandas library](https://pandas.pydata.org/) in Python to manage DataFrames, 
+to learning Structured Query Language (SQL) for obtaining data from databases.
+ While these skills are fundamental for any data scientist, 
+ I realized that they are not the main reason data scientists are valued in organizations.
+
+Soft skills, I discovered, are just as important, if not more so, than technical skills. 
+Communicating findings effectively, collaborating in teams, and tailoring presentations to different audiences are crucial for success. 
+I was surprised by how much emphasis was on these skills in my master’s program. 
+Ultimately, my inspiration to learn data science—the ability to harness the power of data to make decision-making more robust and efficient—relies heavily on these soft skills.
+
+## What I Learned
+
+Throughout my journey, I have learned a combination of technical and soft skills that I find are crucial in data science. 
+While technical skills are the foundation, it is the soft skills that bring everything together and make the work impactful.
+
+### **Technical Skills**  
+- **Python**: Ideal for data cleaning, manipulation, and machine learning.  
+- **R**: Useful for statistical analysis and visualization.  
+- **SQL**: Essential for retrieving data from databases.  
+- **Git and [GitHub](https://github.com/)**: Tools for version control, collaboration, and project organization.  
+
+### **Soft Skills**  
+- **Data Visualization**: Creating charts and graphs using tools such as [Altair](https://pypi.org/project/altair/) and [ggplot](https://ggplot2.tidyverse.org/index.html).  
+- **Communication**: Documenting work, writing reports, and tailoring presentations to different audiences.  
+- **Collaboration**: Using GitHub for team projects, sharing work transparently, and reviewing contributions.
+
+## Tips
+
+If you are interested in pursuing data science, here are some tools and skills I recommend focusing on at the beginning of your journey:  
+
+- Basic fundamentals of coding in Python and R.  
+- The basics of calculus and linear algebra.  
+- Hypothesis testing and statistical inference.  
+- Git and GitHub.  
+- Data Visualization: Making and interpreting charts, graphs, and tables.
+
+## Conclusion
+
+If by now it’s not clear, I decided to change career paths because I believe in data-driven decision-making. 
+I want to be able to use insights from data to help organizations make decisions that will impact the world in a positive way. 
+Studying data science has enabled me to get closer to this goal, 
+and I hope my story inspires you to consider the opportunities this field can offer for your professional career.
